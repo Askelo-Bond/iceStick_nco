@@ -1,0 +1,40 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2017.08.27940
+
+# File Generated:     Feb 2 2019 19:00:42
+
+# Family & Device:    iCE40HX1K
+
+# Package:            TQ144
+
+# ##############################################################################
+
+###IOSet List 24
+set_io brd_led[3] 96 -pullup no
+set_io clk_in 21 -pullup no
+set_io sin_out[1] 113 -pullup no
+set_io brd_led[2] 97 -pullup no
+set_io sample_clk_ce_n 62 -pullup yes
+set_io sin_out[6] 118 -pullup no
+set_io brd_led[1] 98 -pullup no
+set_io high_freq_en_n 60 -pullup yes
+set_io o_serial_data 8 -pullup no
+set_io sin_out[3] 115 -pullup no
+set_io sin_out[7] 119 -pullup no
+set_io test1 45 -pullup no
+set_io brd_led[0] 99 -pullup no
+set_io brd_led[4] 95 -pullup no
+set_io ir_sd 107 -pullup no
+set_io sin_out[0] 112 -pullup no
+set_io sin_out[4] 116 -pullup no
+set_io test2 47 -pullup no
+set_io to_ir 105 -pullup no
+set_io reset_n 61 -pullup yes
+set_io sin_out[5] 117 -pullup no
+set_io test3 48 -pullup no
+set_io from_pc 9 -pullup no
+set_io sin_out[2] 114 -pullup no
+
